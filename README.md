@@ -1,2 +1,39 @@
-# java-learning-journey
-Documenting my journey to becoming a Java Full Stack Developer, one concept at a time.
+# Java Learning Journey ☕
+
+Hi, I'm Prithvi, a B.Tech CSE student aspiring to become a Java Full Stack Developer.
+
+This repository documents my journey of revisiting and strengthening Java fundamentals and core concepts through notes, code examples, and hands-on practice.
+
+## Current Goal
+- Build strong Java fundamentals
+- Master Object-Oriented Programming
+- Develop problem-solving skills
+- Prepare for backend development with Spring Boot and related technologies
+- Learn consistently and document progress publicly
+
+## Learning Roadmap
+
+- [x] JDK, JRE and JVM
+- [x] Variables and Data Types
+- [x] Operators
+- [ ] Conditional Statements
+- [ ] Loops
+- [ ] Arrays
+- [ ] Methods
+- [ ] Strings
+- [ ] Classes and Objects
+- [ ] Constructors
+- [ ] Inheritance
+- [ ] Polymorphism
+- [ ] Abstraction and Interfaces
+- [ ] Exception Handling
+
+## Repository Structure
+
+Each topic folder contains:
+- Concept notes
+- Example programs
+- Practice problems
+- Supporting diagrams where necessary
+
+"Consistency compounds. One concept at a time."
