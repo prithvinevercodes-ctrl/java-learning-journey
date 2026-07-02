@@ -16,6 +16,7 @@
 - Store and print student information
 - Calculate simple interest
 - Demonstrate type casting
+- Temprature converter 
 
 ## Status
 ✅ Revised
