@@ -16,7 +16,7 @@ This repository documents my journey of revisiting and strengthening Java fundam
 - [x] JDK, JRE and JVM
 - [x] Variables and Data Types
 - [x] Operators
-- [ ] Conditional Statements
+- [x] Conditional Statements
 - [ ] Loops
 - [ ] Arrays
 - [ ] Methods
