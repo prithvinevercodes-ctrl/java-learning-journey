@@ -17,9 +17,9 @@ This repository documents my journey of revisiting and strengthening Java fundam
 - [x] Variables and Data Types
 - [x] Operators
 - [x] Conditional Statements
-- [ ] Loops
-- [ ] Arrays
-- [ ] Methods
+- [x] Loops
+- [x] Methods
+- [x] Arrays
 - [ ] Strings
 - [ ] Classes and Objects
 - [ ] Constructors
