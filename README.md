@@ -21,7 +21,7 @@ This repository documents my journey of revisiting and strengthening Java fundam
 - [x] Methods
 - [x] Arrays
 - [ ] Strings
-- [ ] Classes and Objects
+- [x] Classes and Objects
 - [ ] Constructors
 - [ ] Inheritance
 - [ ] Polymorphism
