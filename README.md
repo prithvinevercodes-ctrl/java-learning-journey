@@ -22,7 +22,7 @@ This repository documents my journey of revisiting and strengthening Java fundam
 - [x] Arrays
 - [ ] Strings
 - [x] Classes and Objects
-- [ ] Constructors
+- [x] Constructors and this , this()
 - [ ] Inheritance
 - [ ] Polymorphism
 - [ ] Abstraction and Interfaces
