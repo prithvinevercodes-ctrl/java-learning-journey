@@ -23,9 +23,11 @@ This repository documents my journey of revisiting and strengthening Java fundam
 - [ ] Strings
 - [x] Classes and Objects
 - [x] Constructors and this , this()
+- [x] MethodOverloading & MethodOverriding
+- [ ] Encapsulation 
 - [ ] Inheritance
-- [ ] Polymorphism
-- [ ] Abstraction and Interfaces
+- [ ] Abstraction
+- [ ] Interfaces
 - [ ] Exception Handling
 
 ## Repository Structure
