@@ -37,8 +37,9 @@ Access Modifiers control the visibility of classes, methods, and variables, ensu
 
 ## 📁 Project Structure
 
+```text
 16-Packages-and-Access-Modifiers/
-
+│
 ├── mypack/
 │   ├── Calculator.java
 │   ├── MathOperations.java
@@ -55,6 +56,7 @@ Access Modifiers control the visibility of classes, methods, and variables, ensu
 │   └── StaticImportDemo.java
 │
 └── Main.java
+```
 ---
 
 # 🌍 Real-World Applications
