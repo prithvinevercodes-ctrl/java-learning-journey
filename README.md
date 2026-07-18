@@ -29,6 +29,7 @@ This repository documents my journey of revisiting and strengthening Java fundam
 - [x] Abstraction
 - [x] Interfaces
 - [x] Exception Handling
+- [x] Collections Framework 
 
 ## Repository Structure
 
