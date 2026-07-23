@@ -1,0 +1,7 @@
+## A Maven project usually has a standard directory structure
+like src/main/java for source code and src/test/java for tests. 
+Maven can generate this using the quickstart archetype command. 
+
+- command to create project - 
+
+mvn archetype:generate -DgroupId=com.example -DartifactId=CreateMavenProject -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
