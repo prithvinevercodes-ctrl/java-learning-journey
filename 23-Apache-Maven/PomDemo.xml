@@ -1,0 +1,24 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
+         https://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <!-- Maven model version -->
+    <modelVersion>4.0.0</modelVersion>
+
+    <!-- Unique project group -->
+    <groupId>com.example</groupId>
+
+    <!-- Project name -->
+    <artifactId>PomXmlDemo</artifactId>
+
+    <!-- Project version -->
+    <version>1.0-SNAPSHOT</version>
+
+    <!-- Packaging type -->
+    <packaging>jar</packaging>
+
+    <!-- Project description -->
+    <name>Pom XML Demo</name>
+
+</project>
